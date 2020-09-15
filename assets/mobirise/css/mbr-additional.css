@@ -4263,13 +4263,19 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-saCt3OcsAs {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-saCt3OcsAs .mbr-text,
 .cid-saCt3OcsAs blockquote {
   color: #767676;
+}
+.cid-saCt3OcsAs .mbr-text {
+  color: #232323;
+}
+.cid-saCt3OcsAs .mbr-text P {
+  text-align: center;
 }
 .cid-saCX7zpUpd {
   background: #ffffff;
