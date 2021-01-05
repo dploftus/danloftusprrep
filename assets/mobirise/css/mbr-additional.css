@@ -1793,56 +1793,6 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rGeT7CYxgc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rGeT7CYxgc p {
-  margin-bottom: 0;
-}
-.cid-rGeT7CYxgc .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-rGeT7CYxgc .card-box .card-title {
-  pointer-events: all;
-}
-.cid-rGeT7CYxgc .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-rGeT7CYxgc .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-rGeT7CYxgc .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rGeT7CYxgc .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-rGeT7CYxgc .card-wrap {
-  position: relative;
-}
-.cid-rGeT7CYxgc .card {
-  padding-bottom: 2rem;
-}
 .cid-rGf1XKmTWM {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1941,6 +1891,56 @@ section.lazy-placeholder:after {
   position: relative;
 }
 .cid-rGf1X0m55e .card {
+  padding-bottom: 2rem;
+}
+.cid-rGeT7CYxgc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rGeT7CYxgc p {
+  margin-bottom: 0;
+}
+.cid-rGeT7CYxgc .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(35, 118, 50, 0.6);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-rGeT7CYxgc .card-box .card-title {
+  pointer-events: all;
+}
+.cid-rGeT7CYxgc .card-box .mbr-text {
+  pointer-events: all;
+}
+.cid-rGeT7CYxgc .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-rGeT7CYxgc .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rGeT7CYxgc .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-rGeT7CYxgc .card-wrap {
+  position: relative;
+}
+.cid-rGeT7CYxgc .card {
   padding-bottom: 2rem;
 }
 .cid-rGf1XpSab5 {
