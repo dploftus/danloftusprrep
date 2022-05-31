@@ -1022,9 +1022,9 @@ section.lazy-placeholder:after {
   color: #237632;
 }
 .cid-rEYHZtPK2l {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background-color: #cccccc;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
 .cid-rEYHZtPK2l .media-container-row {
   flex-direction: row-reverse;
@@ -1047,6 +1047,9 @@ section.lazy-placeholder:after {
 .cid-rEYHZtPK2l .mbr-text {
   color: #333333;
   text-align: left;
+}
+.cid-rEYHZtPK2l P {
+  text-align: center;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
