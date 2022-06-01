@@ -1734,6 +1734,56 @@ section.lazy-placeholder:after {
 .cid-rF7EPX9g86 .card-title {
   text-align: center;
 }
+.cid-t7sRAzVD7I {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-t7sRAzVD7I p {
+  margin-bottom: 0;
+}
+.cid-t7sRAzVD7I .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(35, 35, 35, 0.6);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-t7sRAzVD7I .card-box .card-title {
+  pointer-events: all;
+}
+.cid-t7sRAzVD7I .card-box .mbr-text {
+  pointer-events: all;
+}
+.cid-t7sRAzVD7I .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-t7sRAzVD7I .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-t7sRAzVD7I .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-t7sRAzVD7I .card-wrap {
+  position: relative;
+}
+.cid-t7sRAzVD7I .card {
+  padding-bottom: 2rem;
+}
 .cid-rGf1XKmTWM {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1745,7 +1795,7 @@ section.lazy-placeholder:after {
 .cid-rGf1XKmTWM .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
+  background-color: rgba(35, 35, 35, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -1795,7 +1845,7 @@ section.lazy-placeholder:after {
 .cid-swQirjU2C7 .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
+  background-color: rgba(35, 35, 35, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -1845,7 +1895,7 @@ section.lazy-placeholder:after {
 .cid-rGf1X0m55e .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
+  background-color: rgba(35, 35, 35, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -1884,106 +1934,6 @@ section.lazy-placeholder:after {
 .cid-rGf1X0m55e .card {
   padding-bottom: 2rem;
 }
-.cid-rGeT7CYxgc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rGeT7CYxgc p {
-  margin-bottom: 0;
-}
-.cid-rGeT7CYxgc .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-rGeT7CYxgc .card-box .card-title {
-  pointer-events: all;
-}
-.cid-rGeT7CYxgc .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-rGeT7CYxgc .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-rGeT7CYxgc .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rGeT7CYxgc .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-rGeT7CYxgc .card-wrap {
-  position: relative;
-}
-.cid-rGeT7CYxgc .card {
-  padding-bottom: 2rem;
-}
-.cid-swQt4ZtNVH {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-swQt4ZtNVH p {
-  margin-bottom: 0;
-}
-.cid-swQt4ZtNVH .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-swQt4ZtNVH .card-box .card-title {
-  pointer-events: all;
-}
-.cid-swQt4ZtNVH .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-swQt4ZtNVH .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-swQt4ZtNVH .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-swQt4ZtNVH .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-swQt4ZtNVH .card-wrap {
-  position: relative;
-}
-.cid-swQt4ZtNVH .card {
-  padding-bottom: 2rem;
-}
 .cid-rGf1XpSab5 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1995,7 +1945,7 @@ section.lazy-placeholder:after {
 .cid-rGf1XpSab5 .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(35, 118, 50, 0.6);
+  background-color: rgba(35, 35, 35, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
